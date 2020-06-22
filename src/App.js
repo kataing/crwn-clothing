@@ -22,7 +22,6 @@ class App extends React.Component {
       this.setState({
         currentUser: user,
       });
-      console.log(user);
     });
   }
 
